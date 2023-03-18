@@ -10,4 +10,4 @@
 
 
 
-`Live Site Link - https://book-store-drab.vercel.app/`
+`Live Site Link - Open [https://book-store-drab.vercel.app/](https://book-store-drab.vercel.app/)
